@@ -863,8 +863,8 @@ footer {
         margin-top: 10px;
     }
     
-    .search-box {
-        flex-direction: column;
+    .search-group {
+        width: 100%;
     }
     
     .job-card {
